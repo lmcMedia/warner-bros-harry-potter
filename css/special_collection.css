@@ -1,0 +1,119 @@
+
+/* ====================================== Special Collection Page Styles ====================================*/
+.specialcollection_inner_frame{float:left; position:relative; background:url(../images/background/special_collection/frame.png) no-repeat left top; width:733px; height:507px; margin:3px 0 0 28px;}
+
+.specialcollection_left{float:left; width:158px; margin:30px 0 0 32px;}
+.specialcollection_center{float:left; width:354px; margin:8px 0 0 0;}
+.specialcollection_right{float:left; width:175px; margin:12px 0 0 0;}
+
+.printorium{float:left; width:160px;}
+.printorium img{float:left; margin:0 0 -3px -5px;}
+.printorium a.printorium_img1{float:left; background:url(../images/container/special_collection/printorium_img.png) no-repeat left 5px; width:154px; height:195px;}
+.printorium a.printorium_img1:hover{background-position:0 -190px;}
+.printorium a.printorium_img2{float:left; background:url(../images/container/special_collection/printorium_img1.png) no-repeat left 5px; width:154px; height:198px; margin:-9px 0 0 0;}
+.printorium a.printorium_img2:hover{background-position:0 -192px;}
+.printorium a.printorium_price{float:left; background:url(../images/container/special_collection/printorium_price.png) no-repeat left 0; position:absolute; bottom:225px; left:78px;  width:66px; height:36px;}
+.printorium a.printorium_price:hover{background-position:0 -37px;}
+
+.specialcollection_title{float:left; width:100%;}
+
+.wizard_collection{float:left;}
+.wizard_collection a{float:left; background:url(../images/container/special_collection/wizards_collection.png) no-repeat left 3px; width:241px; height:180px; margin:0 0 0 60px;}
+.wizard_collection a:hover{background-position:0 -179px;}
+.wizard_collection img{float:left; margin:0 0 0 25px;}
+
+.page_to_screen{float:left; position:relative; width:195px;}
+.page_to_screen a.page_screen_all{float:left; background:url(../images/container/special_collection/page_screen_all.png) no-repeat left top; width:188px; height:165px; margin:-17px 0 0 -5px;}
+.page_to_screen a.page_screen_all:hover{ background-position:0 -168px;}
+
+.page_to_screen img.pagescreen_text{float:left; margin:-9px 0 0 -135px;}
+.page_to_screen img.pagescreen_arrow{float:left; margin:-5px 0 0 -8px;}
+
+.dumbledore_doll{float:left; width:132px;}
+.dumbledore_doll img{float:left; margin:0 0 0 7px;}
+.dumbledore_doll a{float:left; background:url(../images/container/special_collection/dumbledore_img.png) no-repeat left 3px; width:142px; height:142px;}
+.dumbledore_doll a:hover{ background-position:0 -138px;}
+
+.chess_set{ float:left; width:212px; margin:-4px 0 0 -45px; position:relative;}
+.chess_set a{float:left; background:url(../images/container/special_collection/chess_set.png) no-repeat left 4px; width:218px; height:129px;}
+.chess_set a:hover{ background-position:0 -137px;}
+.chess_set img.chess_set_text{float:left; position:absolute; right:14px; bottom:-23px;}
+.chess_set img.chess_set_arrow{float:left; position:absolute; right:-1px; bottom:0;}
+
+.gallery_statue{ float:left; width:340px; position:relative; margin:14px 0 0 -175px;}
+.gallery_statue a.voldemort_statue{float:left; background:url(../images/container/special_collection/voldemort_statue.png) no-repeat left 4px; width:149px; margin:0 0 -10px 0; height:182px;}
+.gallery_statue a.voldemort_statue:hover{background-position:0 -177px;}
+.gallery_statue a.harrypotter_statue{float:right; background:url(../images/container/special_collection/harry_potter_statue.png) no-repeat left 4px; width:112px; height:176px; margin:6px 0 0 0;}
+.gallery_statue a.harrypotter_statue:hover{background-position:0 -177px;}
+.gallery_statue img.voldmert_statue_text{float:left; position:absolute; right:118px; top:7px;}
+.gallery_statue img.harry_statue_text{float:left; position:absolute; left:122px; bottom:56px;}
+
+.gallery_statue img.voldmert_statue_arrow{float:left; position:absolute; left:108px; top:25px;}
+.gallery_statue img.harry_statue_arrow{float:left; position:absolute; right:120px; bottom:30px;}
+
+/* ====================================== POPUP Window Styles ====================================*/
+
+.printorium_img1_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.printorium_img1_popup span.printorium_img1_popup_mn{float:left; background:url(../images/popup/special_collection/popups/printorium_bg.png) no-repeat left top; width:621px; height:331px; margin:30px 0 0 10px; }
+.printorium_img1_popup .jqzoom_images img{ float:left; margin-left:50px; margin-top:85px} /* small image thumbnail */
+.printorium_img1_popup a.printorium_img1_price_tag{float:left; position:relative; z-index:1000;  width:90px; height:46px; margin:-50px 0 0px 175px; background:url(../images/popup/special_collection/popups/printorium_tag.png) no-repeat left top;}
+.printorium_img1_popup a.printorium_img1_price_tag:hover{background-position:0 -49px;}
+.popup_wands_right a.buy_now_printorium_img1{float:left; position:absolute; right:-175px; bottom:110px; width:127px;}
+
+.printorium_img2_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.printorium_img2_popup span.printorium_img2_popup_mn{float:left; background:url(../images/popup/special_collection/popups/printorium_II_bg.png) no-repeat left top; width:614px; height:351px; margin:30px 0 0 10px; }
+.printorium_img2_popup .jqzoom_images img{ float:left; margin-left:40px; margin-top:85px} /* small image thumbnail */
+.printorium_img2_popup a.printorium_img2_price_tag{float:left; position:relative; z-index:1000;  width:90px; height:46px; margin:-70px 0 0px 175px; background:url(../images/popup/special_collection/popups/printorium_II_tag.png) no-repeat left top;}
+.printorium_img2_popup a.printorium_img2_price_tag:hover{background-position:0 -49px;}
+.popup_wands_right a.buy_now_printorium_img2{float:left; position:absolute; right:-175px; bottom:110px; width:127px;}
+
+.wizard_collection_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.wizard_collection_popup span.wizard_collection_popup_mn{float:left; background:url(../images/popup/special_collection/popups/hp_wizard_collection_bg.png) no-repeat left top; width:641px; height:293px; margin:30px 0 0 10px; }
+.wizard_collection_popup .jqzoom_images img{ float:left; margin-left:15px; margin-top:62px} /* small image thumbnail */
+.wizard_collection_popup a.wizard_collection_price_tag{float:left; position:relative; z-index:1000;  width:90px; height:46px; margin:-45px 0 0px 280px; background:url(../images/popup/special_collection/popups/hp_wizard_collection_tag.png) no-repeat left top;}
+.wizard_collection_popup a.wizard_collection_price_tag:hover{background-position:0 -48px;}
+
+.wizard_collection_popup a.wizard_collection_amazon{float:left; position:absolute; bottom:-25px; left:390px; width:133px; height:43px; background:url(../images/popup/special_collection/popups/special_collection_amazon_logo.png) no-repeat left top;}
+.wizard_collection_popup a.wizard_collection_amazon:hover{background-position:0 -41px;}
+.wizard_collection_popup a.wizard_collection_hp_shop{float:left; position:absolute; bottom:-72px; left:533px; width:97px; height:54px; background:url(../images/popup/special_collection/popups/special_collection_hp_shop_logo.png) no-repeat left top;}
+.wizard_collection_popup a.wizard_collection_hp_shop:hover{background-position:0 -51px;}
+.wizard_collection_popup a.wizard_collection_walmart{float:left; position:absolute; bottom:-22px; left:525px; width:120px; height:45px; background:url(../images/popup/special_collection/popups/special_collection_walmart_logo.png) no-repeat left top;}
+.wizard_collection_popup a.wizard_collection_walmart:hover{background-position:0 -41px;}
+.wizard_collection_popup a.wizard_collection_best_buy{float:left; position:absolute; bottom:-70px; left:455px; width:66px; height:50px; background:url(../images/popup/special_collection/popups/special_collection_best_buy_logo.png) no-repeat left top;}
+.wizard_collection_popup a.wizard_collection_best_buy:hover{background-position:0 -46px;}
+
+
+.page_to_screen_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.page_to_screen_popup span.page_to_screen_popup_mn{float:left; background:url(../images/popup/special_collection/popups/hp_page_to_screen_bg.png) no-repeat left top; width:625px; height:276px; margin:30px 0 0 10px; }
+.page_to_screen_popup .jqzoom_images img{ float:left; margin-left:15px; margin-top:95px} /* small image thumbnail */
+.page_to_screen_popup a.page_to_screen_price_tag{float:left; position:relative; z-index:1000;  width:90px; height:46px; margin:-45px 0 0px 220px; background:url(../images/popup/special_collection/popups/hp_page_to_screen_tag.png) no-repeat left top;}
+.page_to_screen_popup a.page_to_screen_price_tag:hover{background-position:0 -47px;}
+.popup_wands_right a.buy_now_page_to_screen{float:left; position:absolute; right:-190px; bottom:40px; width:127px;}
+
+.dumbledore_doll_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.dumbledore_doll_popup span.dumbledore_doll_popup_mn{float:left; background:url(../images/popup/special_collection/popups/dumbledore_doll_bg.png) no-repeat left top; width:609px; height:331px; margin:30px 0 0 10px; }
+.dumbledore_doll_popup .jqzoom_images img{ float:left; margin-left:25px; margin-top:65px} /* small image thumbnail */
+.dumbledore_doll_popup a.dumbledore_doll_price_tag{float:left; position:relative; z-index:1000;  width:90px; height:46px; margin:-50px 0 0px 190px; background:url(../images/popup/special_collection/popups/dumbledore_doll_tag.png) no-repeat left top;}
+.dumbledore_doll_popup a.dumbledore_doll_price_tag:hover{background-position:0 -49px;}
+.popup_wands_right a.buy_now_dumbledore_doll{float:left; position:absolute; right:-170px; bottom:40px; width:127px;}
+
+.chess_set_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.chess_set_popup span.chess_set_popup_mn{float:left; background:url(../images/popup/special_collection/popups/final_challenge_chess_set_bg.png) no-repeat left top; width:609px; height:331px; margin:30px 0 0 10px; }
+.chess_set_popup .jqzoom_images img{ float:left; margin-left:10px; margin-top:70px} /* small image thumbnail */
+.chess_set_popup a.chess_set_price_tag{float:left; position:relative; z-index:1000;  width:90px; height:46px; margin:-110px 0 0px 230px; background:url(../images/popup/special_collection/popups/final_challenge_chess_set_tag.png) no-repeat left top;}
+.chess_set_popup a.chess_set_price_tag:hover{background-position:0 -48px;}
+.popup_wands_right a.buy_now_chess_set{float:left; position:absolute; right:-190px; bottom:60px; width:127px;}
+
+.voldemort_statue_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.voldemort_statue_popup span.voldemort_statue_popup_mn{float:left; background:url(../images/popup/special_collection/popups/gallery_statue_voldemort_bg.png) no-repeat left top; width:622px; height:336px; margin:30px 0 0 10px; }
+.voldemort_statue_popup .jqzoom_images img{ float:left; margin-left:13px; margin-top:67px} /* small image thumbnail */
+.voldemort_statue_popup a.voldemort_statue_price_tag{float:left; position:relative; z-index:1000;  width:90px; height:46px; margin:-43px 0 0px 180px; background:url(../images/popup/special_collection/popups/gallery_statue_voldemort_tag.png) no-repeat left top;}
+.voldemort_statue_popup a.voldemort_statue_price_tag:hover{background-position:0 -48px;}
+.popup_wands_right a.buy_now_voldemort_statue{float:left; position:absolute; right:-180px; bottom:35px; width:127px;}
+
+.harrypotter_statue_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.harrypotter_statue_popup span.harrypotter_statue_popup_mn{float:left; background:url(../images/popup/special_collection/popups/gallery_statue_hp_bg.png) no-repeat left top; width:630px; height:320px; margin:30px 0 0 10px; }
+.harrypotter_statue_popup .jqzoom_images img{ float:left; margin-left:40px; margin-top:67px} /* small image thumbnail */
+.harrypotter_statue_popup a.harrypotter_statue_price_tag{float:left; position:relative; z-index:1000;  width:90px; height:46px; margin:-35px 0 0px 180px; background:url(../images/popup/special_collection/popups/gallery_statue_hp_tag.png) no-repeat left top;}
+.harrypotter_statue_popup a.harrypotter_statue_price_tag:hover{background-position:0 -46px;}
+.popup_wands_right a.buy_now_harrypotter_statue{float:left; position:absolute; right:-180px; bottom:35px; width:127px;}

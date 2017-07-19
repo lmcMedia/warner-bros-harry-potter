@@ -1,0 +1,57 @@
+
+/* ====================================== The Experience Continues Page Styles ====================================*/
+.experience_page_bg{ float:left; background:url(../images/pages/page_final.jpg) no-repeat left top; height:579px; width:810px;}
+.experience_inner_frame{float:left; position:relative; width:733px; height:507px; margin:3px 0 0 15px;}
+
+.experience_title{margin:10px auto 0 auto; width:404px; height:73px;}
+.experience_left{float:left; width:250px; height:275px; background:url(../images/container/the_experience_continues/links_area_bg.png) no-repeat left top; padding:85px 20px 0 20px; margin:15px 0 0 0;}
+
+.experience_left a.harrypotter_logo1{float:left; width:111px; height:53px; background:url(../images/container/the_experience_continues/harry_potter_shop_logo.png) no-repeat left top; margin:0 0 0 20px;}
+.experience_left a.harrypotter_logo1:hover{ background-position:0 -54px;}
+
+.experience_left a.harrypotter_logo2{float:left; width:115px; height:86px; background:url(../images/container/the_experience_continues/wwohp_logo.png) no-repeat left top;}
+.experience_left a.harrypotter_logo2:hover{ background-position:0 -88px;}
+
+.experience_left a.harrypotter_logo3{float:left; width:75px; height:27px; background:url(../images/container/the_experience_continues/tonner_logo.png) no-repeat left top; margin:10px 0 0 0px;}
+.experience_left a.harrypotter_logo3:hover{ background-position:0 -29px;}
+
+.experience_left a.harrypotter_logo4{float:left; width:84px; height:70px; background:url(../images/container/the_experience_continues/hp_wish_list_logo.png) no-repeat left top; margin:-4px 0 0 11px;}
+.experience_left a.harrypotter_logo4:hover{ background-position:0 -71px;}
+
+.experience_left a.harrypotter_logo5{float:left; width:112px; height:55px; background:url(../images/container/the_experience_continues/harry_potter_exhibition_logo.png) no-repeat left top; margin:-33px 0 0 0;}
+.experience_left a.harrypotter_logo5:hover{ background-position:0 -59px;}
+
+.experience_left a.harrypotter_logo6{float:left; width:80px; height:33px; background:url(../images/container/the_experience_continues/hot_topic_logo.png) no-repeat left 3px;}
+.experience_left a.harrypotter_logo6:hover{ background-position:0 -27px;}
+
+.experience_left a.harrypotter_logo7{float:left; width:75px; height:66px; background:url(../images/container/the_experience_continues/noble_collection_logo.png) no-repeat left 3px;
+ margin:-20px 0 0 26px;}
+.experience_left a.harrypotter_logo7:hover{ background-position:0 -66px;}
+ 
+.experience_left a.harrypotter_logo8{float:left; width:69px; height:65px; background:url(../images/container/the_experience_continues/the_printorium_logo.png) no-repeat left 3px; margin:-5px 0 0 3px;}
+.experience_left a.harrypotter_logo8:hover{ background-position:0 -59px;}
+
+.experience_left a.harrypotter_logo9{float:left; width:70px; height:80px; background:url(../images/container/the_experience_continues/gentle_giant_logo.png) no-repeat left 3px; margin:-15px 0 0 0px;}
+.experience_left a.harrypotter_logo9:hover{ background-position:0 -76px;}
+
+.experience_right{float:left; width:165px;}
+
+.exhibition_tickets{float:left; position:relative; background:url(../images/container/the_experience_continues/harry_potter_poster.png) no-repeat left top; width:440px; height:320px; margin:25px 0 0 20px;}
+.exhibition_tickets a{float:left; width:137px; height:143px; background:url(../images/container/the_experience_continues/buy_tickets_button.png) no-repeat left 6px; margin:-5px 0 0 3px; position:absolute; right:0; top:50px;}
+.exhibition_tickets a:hover{ background-position:0 -144px;}
+
+.harrypotter_wishlist{ float:left; position:relative; background:url(../images/container/the_experience_continues/wish_list_bg.png) no-repeat left top; width:305px; height:123px; margin:-35px 0 0 25px;}
+.harrypotter_wishlist a{float:left; width:139px; height:16px; background:url(../images/container/the_experience_continues/hp_wish_list_link.png) no-repeat left top; position:absolute; left:80px; top:19px;}
+.harrypotter_wishlist a:hover{ background-position:0 -22px;}
+
+
+
+
+
+
+
+
+
+
+
+

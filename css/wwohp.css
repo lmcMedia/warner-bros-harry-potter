@@ -1,0 +1,137 @@
+
+/* ====================================== The Wizarding World Of Harry Potter Page Styles ====================================*/
+.wwohp_frame{float:left; position:relative; background:url(../images/background/wwohp/frame.png) no-repeat left top; width:733px; height:506px; margin:3px 0 0 28px;}
+.wwohp_left{float:left; width:175px;}
+.wwohp_center{float:left; width:342px;}
+.wwohp_right{float:right; width:195px;}
+
+.jersey_shirt{float:left; width:170px; margin:15px 0 0 4px;}
+.jersey_shirt a{float:left; background:url(../images/container/wwohp/jersey_shirt.png) no-repeat left 4px; width:181px; height:114px;}
+.jersey_shirt a:hover{background-position:0 -117px;}
+.jersey_shirt img{float:left; margin:8px 0 0 42px;}
+
+.rugby_shirt{float:left; width:170px; margin:20px 0 0 10px;}
+.rugby_shirt a{float:left; background:url(../images/container/wwohp/rugby_shirt.png) no-repeat left 4px; width:117px; height:114px;}
+.rugby_shirt a:hover{background-position:0 -111px;}
+.rugby_shirt img.rugby_shirt{float:left; width:88px; height:45px; margin:5px 0 4px 0px;}
+.rugby_shirt img.rugby_shirt_text{float:left; width:54px; height:22px; margin:8px 0 4px 4px;}
+
+.chocklate_frog{ float:left; width:185px; position:relative; margin:-18px 0 0 40px;}
+.chocklate_frog a{float:left; background:url(../images/container/wwohp/choclate_frog_pack.png) no-repeat left 0px; width:185px; height:134px;}
+.chocklate_frog a:hover{background-position:0 -137px;}
+.chocklate_frog img.chocklate_frog_arrow{float:left; width:15px; height:27px; position:absolute; left:54px; bottom:7px;}
+.chocklate_frog img.chocklate_frog_text{float:left; width:113px; height:23px; position:absolute; left:45px; bottom:-15px;}
+
+.wwohp_title{float:left; margin:8px 0 0 22px;}
+.wizardingworld_trip{float:left; width:399px; margin:-23px 0 0 -59px; height:403px; background:url(../images/container/wwohp/wizardingworld_trip_bg.png) no-repeat left top;}
+.wizardingworld_trip img.triptop_text{float:right; margin:41px 52px 0 0;}
+.wizardingworld_trip a.trip_img{float:right; background:url(../images/container/wwohp/trip_img.png) no-repeat left 3px; width:194px; height:131px; margin:0 47px 0 0;}
+.wizardingworld_trip a.trip_img:hover{background:url(../images/container/wwohp/trip_img.png) no-repeat 0 -126px;}
+
+.wizardingworld_trip img.tripbottom_text{float:right; margin:-4px 40px 6px 0px;}
+.wizardingworld_trip a.tripbottom_more_info_link{cursor: pointer; float:right; background:url(../images/container/wwohp/more_info_link.png) no-repeat top left; width:93px; height:26px; margin:-15px 163px 0px 0;}
+.wizardingworld_trip a.tripbottom_more_info_link:hover{background-position:0 -23px;}
+.wizardingworld_trip a.tripbottom_terms_link{cursor: pointer; float:right; background:url(../images/container/wwohp/terms_link.png) no-repeat top left; width:107px; height:26px; margin:-24px 40px 0px 0;}
+.wizardingworld_trip a.tripbottom_terms_link:hover{background-position:0 -24px;}
+
+
+.flavourbeans{float:left; width:118px; position:relative; margin:5px 0 0 32px;}
+.flavourbeans a{float:left; background:url(../images/container/wwohp/flavour_beans.png) no-repeat left 4px; width:117px; height:144px;}
+.flavourbeans a:hover{background-position:0 -137px;}
+.flavourbeans img.flavourbeans_arrow{float:right; position:absolute; right:14px; bottom:8px;}
+.flavourbeans img.flavourbeans_text{position:absolute; right:-29px; bottom:-28px;}
+
+.wwohp_house_scarves{float:left; width:230px; position:relative; margin:30px 0 0 -30px;}
+.wwohp_house_scarves a.housescarves_both{float:left; background:url(../images/container/wwohp/house_scarves_both.png) no-repeat left 7px; width:227px; margin:0 0 0 -8px; height:135px;}
+.wwohp_house_scarves a.housescarves_both:hover{background-position:0 -127px;}
+.wwohp_house_scarves img.house_scarves_text{float:right; position:absolute; left:60px; bottom:40px; }
+
+.wwohp_puff{float:left; width:205px; margin:15px 0 0 -30px;}
+
+.pinkpygmy_puff{float:left; position:relative; width:115px;}
+.pinkpygmy_puff a{float:left; background:url(../images/container/wwohp/puffs_both.png) no-repeat right; width:110px; height:130px;}
+.pinkpygmy_puff a:hover{background-position:-9px 0;}
+.pinkpygmy_puff img.pinkpuff_text{float:left; margin:0 0 0 17px;}
+.pinkpygmy_puff img.pinkpuff_arrow{float:left; position:absolute; left:0px; top:15px;}
+
+.purplepygmy_puff{float:left; position:relative; margin:-2px 0 0 0; width:125px;}
+.purplepygmy_puff img.purplepuff_text{float:left; margin:0 0 0 12px;}
+.purplepygmy_puff img.purplepuff_arrow{float:left; position:absolute; right:8px; bottom:27px;}
+
+.pumpkin_juice{float:left; position:relative; width:88px;}
+.pumpkin_juice a{float:left; background:url(../images/container/wwohp/pumpkin_juice.png) no-repeat left 5px; width:111px; height:101px;}
+.pumpkin_juice a:hover{background-position:0 -96px; }
+.pumpkin_juice img{float:left; margin:5px 0 0 21px;}
+
+/* ====================================== POPUP Window Styles ====================================*/
+
+.jersey_shirt_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.jersey_shirt_popup span.jersey_shirt_popup_mn{float:left; background:url(../images/popup/the_wizarding_world/popups/gryffindor_jersey_shirt_bg.png) no-repeat left top; width:644px; height:326px; margin:30px 0 0 10px; }
+.jersey_shirt_popup .jqzoom_images img{ float:left; margin-left:20px; margin-top:65px} /* small image thumbnail */
+.jersey_shirt_popup a.jersey_shirt_price_tag{float:left; position:relative;  width:90px; height:46px; margin:-60px 0 0px 280px; background:url(../images/popup/the_wizarding_world/popups/gryffindor_jersey_shirt_tag.png) no-repeat left top;}
+.jersey_shirt_popup a.jersey_shirt_price_tag:hover{background-position:0 -47px;}
+.popup_wands_right a.buy_now_jersey_shirt{float:left; position:absolute; right:-170px; bottom:-40px; width:127px;}
+
+.rugby_shirt_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.rugby_shirt_popup span.rugby_shirt_popup_mn{float:left; background:url(../images/popup/the_wizarding_world/popups/griffindor_rugby_shirt_bg.png) no-repeat left top; width:634px; height:320px; margin:30px 0 0 10px; }
+.rugby_shirt_popup .jqzoom_images img{ float:left; margin-left:20px; margin-top:68px} /* small image thumbnail */
+.rugby_shirt_popup a.rugby_shirt_price_tag{float:left; position:relative;  width:90px; height:46px; margin:-60px 0 0px 280px; background:url(../images/popup/the_wizarding_world/popups/griffindor_rugby_shirt_tag.png) no-repeat left top;}
+.rugby_shirt_popup a.rugby_shirt_price_tag:hover{background-position:0 -48px;}
+.popup_wands_right a.buy_now_rugby_shirt{float:left; position:absolute; right:-220px; bottom:50px; width:127px;}
+
+.chocolate_frog_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.chocolate_frog_popup span.chocolate_frog_popup_mn{float:left; background:url(../images/popup/the_wizarding_world/popups/chocolate_frogs_pack_bg.png) no-repeat left top; width:606px; height:340px; margin:30px 0 0 10px; }
+.chocolate_frog_popup .jqzoom_images img{ float:left; margin-left:20px; margin-top:65px} /* small image thumbnail */
+.chocolate_frog_popup a.chocolate_frog_price_tag{float:left; position:relative;  width:90px; height:46px; margin:-55px 0 0px 250px; background:url(../images/popup/the_wizarding_world/popups/chocolate_frogs_pack_tag.png) no-repeat left top;}
+.chocolate_frog_popup a.chocolate_frog_price_tag:hover{background-position:0 -47px;}
+.popup_wands_right a.buy_now_chocolate_frog{float:left; position:absolute; right:-200px; bottom:20px; width:127px;}
+
+.universal_orlando_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.universal_orlando_popup span.universal_orlando_popup_mn{float:left; background:url(../images/popup/the_wizarding_world/popups/exclusive_4_night_package_bg.png) no-repeat left top; width:658px; height:388px; margin:25px 0 0 2px; }
+.universal_orlando_popup a.universal_orlando_link{float:left; position:relative; width:259px; height:28px; margin:-28px 0 0px 230px; background:url(../images/popup/the_wizarding_world/popups/exclusive_4_night_package_link.png) no-repeat left top;}
+.universal_orlando_popup a.universal_orlando_link:hover{background-position:0 -28px;}
+
+.flavourbeans_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.flavourbeans_popup span.flavourbeans_popup_mn{float:left; background:url(../images/popup/the_wizarding_world/popups/bertie_bott_beans_bg.png) no-repeat left top; width:636px; height:361px; margin:30px 0 0 10px; }
+.flavourbeans_popup .jqzoom_images img{ float:left; margin-left:40px; margin-top:62px} /* small image thumbnail */
+.flavourbeans_popup a.flavourbeans_price_tag{float:left; position:relative;  width:90px; height:46px; margin:-51px 0 0px 180px; background:url(../images/popup/the_wizarding_world/popups/bertie_bott_beans_tag.png) no-repeat left top;}
+.flavourbeans_popup a.flavourbeans_price_tag:hover{background-position:0 -47px;}
+.popup_wands_right a.buy_now_flavourbeans{float:left; position:absolute; right:-180px; bottom:95px; width:127px;}
+
+.house_scarves_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.house_scarves_popup span.house_scarves_popup_mn{float:left; background:url(../images/popup/the_wizarding_world/popups/house_scarves_bg.png) no-repeat left top; width:597px; height:394px; margin:30px 0 0 10px; }
+.house_scarves_popup .jqzoom_images img{ float:left; margin-left:158px; margin-top:46px} /* small image thumbnail */
+.house_scarves_popup a.house_scarves_price_tag{float:left; position:relative;  width:90px; height:46px; margin:-170px 0 0px 470px; background:url(../images/popup/the_wizarding_world/popups/house_scarves_tag.png) no-repeat left top;}
+.house_scarves_popup a.house_scarves_price_tag:hover{background-position:0 -48px;}
+
+.popup_wands_right a.buy_now_house_scarves1{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:42px; bottom:72px; width:106px;}
+.popup_wands_right a.buy_now_house_scarves1:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_house_scarves2{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:-134px; bottom:72px; width:106px;}
+.popup_wands_right a.buy_now_house_scarves2:hover{ background-position:0 -30px;}
+
+
+.pygmy_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.pygmy_popup span.pygmy_popup_mn{float:left; background:url(../images/popup/the_wizarding_world/popups/pygmy_puff_bg.png) no-repeat left top; width:630px; height:385px; margin:28px 0 0 7px; }
+.pygmy_popup .jqzoom_images img{ float:left; margin-left:112px; margin-top:60px} /* small image thumbnail */
+.pygmy_popup a.pygmy_price_tag{float:left; position:relative;  width:90px; height:46px; margin:-375px 0 0px 285px; background:url(../images/popup/the_wizarding_world/popups/pygmy_puff_tag.png) no-repeat left top;}
+.pygmy_popup a.pygmy_price_tag:hover{background-position:0 -49px;}
+
+.popup_wands_right a.buy_now_pygmy1{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:92px; bottom:104px; width:106px;}
+.popup_wands_right a.buy_now_pygmy1:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_pygmy2{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute;right:-192px; bottom:104px; width:106px;}
+.popup_wands_right a.buy_now_pygmy2:hover{ background-position:0 -30px;}
+
+
+.pumpkin_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.pumpkin_popup span.pumpkin_popup_mn{float:left; background:url(../images/popup/the_wizarding_world/popups/pumpkin_juice_bg.png) no-repeat left top; width:641px; height:341px; margin:30px 0 0 10px; }
+.pumpkin_popup .jqzoom_images img{ float:left; margin-left:25px; margin-top:70px} /* small image thumbnail */
+.pumpkin_popup a.pumpkin_price_tag{float:left; position:relative;  width:90px; height:46px; margin:-55px 0 0px 250px; background:url(../images/popup/the_wizarding_world/popups/pumpkin_juice_tag.png) no-repeat left top;}
+.pumpkin_popup a.pumpkin_price_tag:hover{background-position:0 -47px;}
+.popup_wands_right a.buy_now_pumpkin{float:left; position:absolute; right:-200px; bottom:80px; width:127px;}
+
+
+
+
+

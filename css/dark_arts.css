@@ -1,0 +1,108 @@
+
+/* ====================================== Dark Arts Page Styles ====================================*/
+.darkarts_inner_frame{float:left; position:relative; background:url(../images/background/dark_arts/frame.png) no-repeat left top; width:733px; height:507px; margin:3px 0 0 27px;}
+.darkarts_left{float:left; width:185px; margin:30px 0 0 20px;}
+.darkarts_center{float:left; width:305px; margin:10px 0 0 10px;}
+.darkarts_right{float:right; width:195px;}
+
+.mask_collection{float:left; position:relative;}
+.mask_collection img.mask_collection_text{float:left; margin:0 0 3px 18px;}
+.mask_collection span{float:left; background:url(../images/container/dark_arts/darkarts_frame.png) no-repeat left top; width:180px; height:238px; padding:4px 0 0 0;}
+.mask_collection a.mask_img{float:left; background:url(../images/container/dark_arts/mask_collection.png) no-repeat left 7px; width:178px; height:232px; margin-left:-3px;}
+.mask_collection a.mask_img:hover{ background-position:0 -234px;}
+.mask_collection a.mask_price{float:left; background:url(../images/container/dark_arts/mask_collection_price.png) no-repeat left top; position:absolute; right:17px; bottom:25px; width:46px; height:27px;}
+.mask_collection a.mask_price:hover{background:url(../images/container/dark_arts/mask_collection_price.png) no-repeat 0 -28px;}
+
+.horcrux_locket{float:left; z-index:999; margin:4px 0 0 0; width:235px; position:relative;}
+.horcrux_locket img.locket_text{float:left; margin:6px 0 0 45px;}
+.horcrux_locket a.locket_img{float:left; background:url(../images/container/dark_arts/horcrux_locket.png) no-repeat left 4px; width:239px; height:143px;}
+.horcrux_locket a.locket_img:hover{background-position:0 -136px;}
+.horcrux_locket a.locket_price{float:left; background:url(../images/container/dark_arts/locket_price.png) no-repeat left top; width:46px; height:26px; position:absolute; left:-8px; top:60px;}
+.horcrux_locket a.locket_price:hover{background-position:0 -27px;}
+
+.darkarts_title{float:left;}
+.bookmarks_set{float:left; margin:15px 0 0 7px; position:relative; background:url(../images/container/dark_arts/bookmarks_frame.png) no-repeat left top; width:283px; height:140px; padding:12px 0 0 12px;}
+.bookmarks_set a{float:left; background:url(../images/container/dark_arts/bookmarks_set.png) no-repeat left top; width:258px; height:130px;}
+.bookmarks_set a:hover{ background-position:0 -135px;}
+.bookmarks_set img{ position:absolute; right:20px; bottom:13px;}
+
+.kedavra_tee{ float:left; position:relative; width:235px; margin:12px 0 0 0;}
+.kedavra_tee img.kedavra_arrow{ float:left; position:absolute; left:65px; top:39px; width:29px;}
+.kedavra_tee a.kedavra_img{float:right; background:url(../images/container/dark_arts/kedavra_tee.png) no-repeat 0 5px; width:184px; height:184px; margin:-12px -7px 0 0;}
+.kedavra_tee a.kedavra_img:hover{ background-position:0 -182px;}
+.kedavra_tee a.kedavra_price{float:right; background:url(../images/container/dark_arts/kedavra_price.png) no-repeat 0 0; width:47px; height:27px; position:absolute; left:75px; bottom:15px;}
+.kedavra_tee a.kedavra_price:hover{background-position:0 -29px;}
+
+.darkwand_pen{float:left; position:relative; width:147px; margin-top:10px;}
+.darkwand_pen span{float:left; background:url(../images/container/dark_arts/darkpen_frame.png) no-repeat left top; width:108px; height:148px; padding:10px 0 0 17px;}
+.darkwand_pen span a.darkwandpen{float:left; background:url(../images/container/dark_arts/wand_pen.png) no-repeat left 2px; width:94px; height:140px;}
+.darkwand_pen span a.darkwandpen:hover{ background-position:0 -145px;}
+.darkwand_pen span a.darkwandpenprice{float:left; background:url(../images/container/dark_arts/wand_pen_price.png) no-repeat left top; position:absolute; left:11px; top:97px; width:47px; height:27px;}
+.darkwand_pen span a.darkwandpenprice:hover{ background-position:0 -29px;}
+.darkwand_pen img.darkpen_text{float:left; width:127px; height:52px; margin:7px 0 0 0px;}
+.darkwand_pen img.darkpen_arrow{float:left; width:25px; height:29px; position:absolute; right:2px; bottom:45px;}
+
+.deatheater_costume{float:right; width:134px; position:relative;}
+.deatheater_costume a{float:left; width:132px; height:153px; background:url(../images/container/dark_arts/deatheater_costume.png) no-repeat left top;}
+.deatheater_costume a:hover{ background-position:0 -151px;}
+.deatheater_costume img.deatheater_text{float:left; width:187px; height:40px; position:absolute; left:-124px; bottom:50px;}
+.deatheater_costume img.deatheater_arrow{float:left; width:29px; height:15px; position:absolute; left:37px; bottom:58px;}
+
+.horcrux_ring{float:left; width:215px; margin:-47px 0 0 -85px;}
+.horcrux_ring a{float:left; background:url(../images/container/dark_arts/horcrux_ring.png) no-repeat left top; width:229px; height:141px;}
+.horcrux_ring a:hover{background-position:0 -148px; }
+.horcrux_ring img.horcrux_ring_text{float:left; margin:2px 0 0 3px;}
+.horcrux_ring img.horcrux_ring_arrow{float:left; width:30px; height:35px; margin:-25px 0 0 20px;}
+
+
+
+/* ====================================== POPUP Window Styles ====================================*/
+
+.mask_img_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.mask_img_popup span.mask_img_popup_mn{float:left; background:url(../images/popup/dark_arts/popups/death_eather_mask_collection_bg.png) no-repeat left top; width:623px; height:337px; margin:30px 0 0 10px; }
+.mask_img_popup .jqzoom_images img{ float:left; margin-left:25px; margin-top:65px} /* small image thumbnail */
+.mask_img_popup a.mask_img_price_tag{float:left; position:relative; z-index:1000; width:90px; height:46px; margin:-50px 0 0px 180px; background:url(../images/popup/dark_arts/popups/death_eather_mask_collection_tag.png) no-repeat left top;}
+.mask_img_popup a.mask_img_price_tag:hover{background-position:0 -47px;}
+.popup_wands_right a.buy_now_mask_img{float:left; position:absolute; right:-170px; bottom:110px; width:127px;}
+
+.locket_img_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.locket_img_popup span.locket_img_popup_mn{float:left; background:url(../images/popup/dark_arts/popups/horcrux_locket_bg.png) no-repeat left top; width:623px; height:279px; margin:30px 0 0 10px; }
+.locket_img_popup .jqzoom_images img{ float:left; margin-left:20px; margin-top:57px} /*small image thumbnail*/
+.locket_img_popup a.locket_img_price_tag{float:left; position:relative; z-index:1000; width:90px; height:46px; margin:-45px 0 0px 280px; background:url(../images/popup/dark_arts/popups/horcrux_locket_tag.png) no-repeat left top;}
+.locket_img_popup a.locket_img_price_tag:hover{background-position:0 -48px;}
+.popup_wands_right a.buy_now_locket_img{float:left; position:absolute; right:-220px; bottom:110px; width:127px;}
+
+.bookmark_set_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.bookmark_set_popup span.bookmark_set_popup_mn{float:left; background:url(../images/popup/dark_arts/popups/horcrux_bookmark_set_bg.png) no-repeat left top; width:592px; height:275px; margin:30px 0 0 10px; }
+.bookmark_set_popup .jqzoom_images img{ float:left; margin-left:30px; margin-top:57px} /* small image thumbnail */
+.bookmark_set_popup a.bookmark_set_price_tag{float:left; position:relative; z-index:1000; width:90px; height:46px; margin:-50px 0 0px 390px; background:url(../images/popup/dark_arts/popups/horcrux_bookmark_set_tag.png) no-repeat left top;}
+.bookmark_set_popup a.bookmark_set_price_tag:hover{background-position:0 -46px;}
+.popup_wands_right a.buy_now_bookmark_set{float:left; position:absolute; right:-290px; bottom:110px; width:127px;}
+
+.kedavra_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.kedavra_popup span.kedavra_popup_mn{float:left; background:url(../images/popup/dark_arts/popups/avada_kedavra_tee_bg.png) no-repeat left top; width:614px; height:337px; margin:30px 0 0 10px; }
+.kedavra_popup .jqzoom_images img{ float:left; margin-left:15px; margin-top:80px} /* small image thumbnail */
+.kedavra_popup a.kedavra_price_tag{float:left; position:relative; z-index:1000; width:90px; height:46px; margin:-50px 0 0px 180px; background:url(../images/popup/dark_arts/popups/avada_kedavra_tee_tag.png) no-repeat left top;}
+.kedavra_popup a.kedavra_price_tag:hover{background-position:0 -47px;}
+.popup_wands_right a.buy_now_kedavra{float:left; position:absolute; right:-170px; bottom:110px; width:127px;}
+
+.darkwandpen_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.darkwandpen_popup span.darkwandpen_popup_mn{float:left; background:url(../images/popup/dark_arts/popups/voldemort_wand_pen_bookmark_bg.png) no-repeat left top; width:573px; height:338px; margin:30px 0 0 10px; }
+.darkwandpen_popup .jqzoom_images img{ float:left; margin-left:40px; margin-top:63px} /* small image thumbnail */
+.darkwandpen_popup a.darkwandpen_price_tag{float:left; position:relative; z-index:1000; width:90px; height:46px; margin:-53px 0 0px 180px; background:url(../images/popup/dark_arts/popups/voldemort_wand_pen_bookmark_tag.png) no-repeat left top;}
+.darkwandpen_popup a.darkwandpen_price_tag:hover{background-position:0 -47px;}
+.popup_wands_right a.buy_now_darkwandpen{float:left; position:absolute; right:-175px; bottom:120px; width:127px;}
+
+.death_eater_costume_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.death_eater_costume_popup span.death_eater_costume_popup_mn{float:left; background:url(../images/popup/dark_arts/popups/deluxe_death_eater_costume_bg.png) no-repeat left top; width:614px; height:337px; margin:30px 0 0 10px; }
+.death_eater_costume_popup .jqzoom_images img{ float:left; margin-left:40px; margin-top:62px} /* small image thumbnail */
+.death_eater_costume_popup a.death_eater_costume_price_tag{float:left; position:relative; z-index:1000; width:90px; height:46px; margin:-50px 0 0px 180px; background:url(../images/popup/dark_arts/popups/deluxe_death_eater_costume_tag.png) no-repeat left top;}
+.death_eater_costume_popup a.death_eater_costume_price_tag:hover{background-position:0 -47px;}
+.popup_wands_right a.buy_now_death_eater_costume{float:left; position:absolute; right:-170px; bottom:100px; width:127px;}
+
+.horcrux_ring_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.horcrux_ring_popup span.horcrux_ring_popup_mn{float:left; background:url(../images/popup/dark_arts/popups/horcrux_ring_bg.png) no-repeat left top; width:611px; height:278px; margin:30px 0 0 10px; }
+.horcrux_ring_popup .jqzoom_images img{ float:left; margin-left:30px; margin-top:60px} /* small image thumbnail */
+.horcrux_ring_popup a.horcrux_ring_price_tag{float:left; position:relative; z-index:1000; width:90px; height:46px; margin:-45px 0 0px 270px; background:url(../images/popup/dark_arts/popups/horcrux_ring_tag.png) no-repeat left top;}
+.horcrux_ring_popup a.horcrux_ring_price_tag:hover{background-position:0 -46px;}
+.popup_wands_right a.buy_now_horcrux_ring{float:left; position:absolute; right:-215px; bottom:110px; width:127px;}

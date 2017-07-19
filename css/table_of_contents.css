@@ -1,0 +1,49 @@
+/* ====================================== Tables Of Content Page Styles ====================================*/
+
+.tbc_inner_frame{float:left; position:relative; background:url(../images/background/table_of_contents/outer_frame.png) no-repeat left top; width:733px; height:507px; margin:5px 0 0 25px;}
+.tbc_inner_frame h2{ margin:20px auto 0px auto; width:594px; height:18px;}
+.tbc_inner_frame h3{width:519px; height:20px; margin:10px auto 0 auto;}
+.tbc_inner_frame span{ float:left; width:189px; height:16px; margin:5px 0 0 270px;}
+.tbc_inner_frame h4{width:703px; height:37px; margin:25px auto 0 auto;}
+
+.tbc_mn_table{margin:60px auto 0px auto; position:relative; background:url(../images/container/table_of_contents/table_content_bg.png) no-repeat left top; width:509px; height:298px;}
+.tbc_mn_table h1{float:left; width:218px; height:100px; position:absolute; left:155px; top:-65px;} /* This is the TOC logo header*/
+
+.table_of_contents_navigation{
+	position:absolute;
+	margin-top:45px;
+}
+.tbc_mn_table ul {
+	cursor: pointer;
+ 	text-decoration:none;
+ 	margin:0px;
+ 	padding:0px;
+ 	list-style:none;
+ }
+ .tbc_mn_table li {
+ 	margin-bottom:13px;
+ }
+ 
+ .tbc_mn_table a {
+ 	display:block;                 
+ 	text-decoration:none;
+ }
+.tbc_mn_table li a.toc_magical_artefacts{background:url(../images/text/table_of_contents/magical_artefacts.png) no-repeat 0 0; height:25px; width:290px; margin:-10px 0 0 113px;}
+.tbc_mn_table li a.toc_young_wizard{background:url(../images/text/table_of_contents/young_wizard.png) no-repeat 0 0; height:25px; width:340px; margin:-10px 0 0 100px;}
+.tbc_mn_table li a.toc_wizard_assortment{background:url(../images/text/table_of_contents/wizard_assortment.png) no-repeat 0 0; height:30px; width:510px; margin:-10px 0 0 2px;}
+.tbc_mn_table li a.toc_house_of_hogwarts{background:url(../images/text/table_of_contents/house_of_hogwarts.png) no-repeat 0 0; height:27px; width:310px; margin:-10px 0 0 110px;}
+.tbc_mn_table li a.toc_dark_arts{background:url(../images/text/table_of_contents/dark_arts.png) no-repeat 0 0; height:25px; width:180px; margin:-10px 0 0 175px;}
+.tbc_mn_table li a.toc_wizarding_world{background:url(../images/text/table_of_contents/wizarding_world.png) no-repeat 0 0; height:25px; width:470px; margin:-10px 0 0 20px;}
+.tbc_mn_table li a.toc_special_collection{background:url(../images/text/table_of_contents/special_collection.png) no-repeat 0 0; height:25px; width:500px; margin:-10px 0 0 8px;}
+.tbc_mn_table li a.toc_experience_continues{background:url(../images/text/table_of_contents/experience_continues.png) no-repeat 0 0; height:50px; width:405px; margin:-10px 0 0 57px;}
+
+.tbc_mn_table li a.toc_magical_artefacts:hover{background-position: 0 -23px;}
+.tbc_mn_table li a.toc_young_wizard:hover{background-position: 0 -23px;}
+.tbc_mn_table li a.toc_wizard_assortment:hover{background-position: 0 -29px;}
+.tbc_mn_table li a.toc_house_of_hogwarts:hover{background-position: 0 -26px;}
+.tbc_mn_table li a.toc_dark_arts:hover{background-position: 0 -25px;}
+.tbc_mn_table li a.toc_wizarding_world:hover{background-position: 0 -24px;}
+.tbc_mn_table li a.toc_special_collection:hover{background-position: 0 -25px;}
+.tbc_mn_table li a.toc_experience_continues:hover{background-position: 0 -49px;}
+
+.hogwarts_stamp{ float:right; width:97px; height:105px; position:absolute; right:10px; bottom:50px;}

@@ -1,0 +1,172 @@
+
+/* ====================================== House Of Hogwarts Page Styles ====================================*/
+.hogwarts_page_bg{ float:left; background:url(../images/background/house_of_hogwarts/hogwarts_page_bg.jpg) no-repeat left top; height:579px; width:810px;}
+.hogwartshouse_inner_frame{float:left; position:relative; background:url(../images/background/house_of_hogwarts/frame.png) no-repeat left top; width:733px; height:507px; margin:3px 0 0 30px;}
+.househogwarts_left{float:left; width:205px;}
+.househogwarts_center{float:left; width:335px; margin:8px 0 0 0;}
+.househogwarts_right{float:left; width:170px;}
+
+.house_sweaters{width:184px; float:left; margin:14px 0 0 30px;}
+.house_sweaters a.sweater_group{float:left; background:url(../images/container/hogwarts_house/hogwarts_sweaters_all.png) no-repeat left top; width:182px; height:94px; margin:0 0 -3px -3px;}
+.house_sweaters a.sweater_group:hover{background-position: 0 -90px;}
+.house_sweaters img{float:left; margin:6px 0 0 -14px;}
+
+.house_throws{float:left; width:184px; position:relative; margin:14px 0 0 30px;}
+.house_throws img.house_throws_arrow{float:left; position:absolute; right:11px; top:11px;}
+.house_throws img.house_throws_text{float:left; position:absolute; right:-50px; top:28px;}
+.house_throws a.house_throws_group{float:left; background:url(../images/container/hogwarts_house/house_throws_all.png) no-repeat left top; width:180px; height:200px; margin:-20px 0 0 -25px;}
+.house_throws a.house_throws_group:hover{background-position: 0 -193px;}
+
+.house_bookmarks{float:left; width:184px; position:relative; margin:2px 0 0 -10px;}
+.house_bookmarks img.house_bookmarks_arrow{float:left; position:absolute; left:45px; top:30px;}
+.house_bookmarks img.house_bookmarks_text{float:left; position:absolute; left:35px; bottom:-120px;}
+.house_bookmarks a.bookmarks_main{float:left; position:absolute; background:url(../images/container/hogwarts_house/bookmarks_set.png) no-repeat top left; height:155px; width:150px; margin:-10px 0 0 65px;}
+.house_bookmarks a.bookmarks_main:hover{background-position: 0 -155px;}
+.house_bookmark_title{float:left;}
+
+.house_scarves{float:left; width:220px; position:relative; padding:5px 0 0 90px;}
+.house_scarves img{float:left; width:253px; height:13px; margin:8px 0 0 -20px;}
+.house_scarves a.scarves_graphic{float:left; background:url(../images/container/hogwarts_house/scarves.png) no-repeat top left; height:130px; width:250px; margin:-12px 0 -7px -10px;}
+.house_scarves a.scarves_graphic:hover{background-position: 0 -128px;}
+
+.iphonecases{float:left; position:relative; width:390px; height:107px; margin:15px 0 0 -20px;}
+.iphonecases a.iphone_cases_all{float:left; background:url(../images/container/hogwarts_house/iphonecases_all.png) no-repeat left top; width:386px; height:145px; bottom:14px; right:160px;}
+.iphonecases a.iphone_cases_all:hover{background-position: 0 -146px;}
+
+.house_beanies{width:340px; float:left; position:relative; margin:40px 0 0 15px;}
+.house_beanies img{float:left; margin:-10px 0 0 5px;}
+.house_beanies a.beanies_all{float:left; background:url(../images/container/hogwarts_house/beanies_all.png) no-repeat left top; right:10px; bottom:11px; width:326px; height:93px;}
+.house_beanies a.beanies_all:hover{background-position: 0 -91px;}
+
+.house_robes{width:170px; float:left; height:273px; position:relative; margin:14px 0 0 8px;}
+.house_robes img.robes_text{float:left; position:absolute; left:-10px; bottom:77px;}
+.house_robes a.robes_all{float:left; background:url(../images/container/hogwarts_house/robes_all.png) no-repeat left top; width:188px; height:288px; margin:3px 0 0 -18px;}
+.house_robes a.robes_all:hover{background-position: 0 -285px;}
+
+.house_ties{width:138px; float:right; height:180px; position:relative; margin:28px 0 0 8px;}
+.house_ties img.ties_text{float:left; position:absolute; right:-15px; top:-3px;}
+
+.house_ties a.ties{float:right; background:url(../images/container/hogwarts_house/house_tie.png) no-repeat top left; float:left; width:99px; height:165px; margin:12px 0 0 0px;}
+.house_ties a.ties:hover{background-position: 0 -168px;}
+
+/* ====================================== POPUP Window Styles ====================================*/
+
+.sweater_group_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.sweater_group_popup span.sweater_group_popup_mn{float:left; background:url(../images/popup/house_of_hogwarts/popups/hogwarts_house_sweaters_bg.png) no-repeat left top; width:637px; height:366px; margin:30px 0 0 10px; }
+.sweater_group_popup .jqzoom_images img{ float:left; margin-left:80px; margin-top:60px} /* small image thumbnail */
+.sweater_group_popup a.sweater_group_price_tag{float:left; position:absolute;  bottom:115px; left:585px; width:90px; height:46px; background:url(../images/popup/house_of_hogwarts/popups/hogwarts_house_sweaters_tag.png) no-repeat left top;}
+.sweater_group_popup a.sweater_group_price_tag:hover{background-position:0 -48px;}
+.popup_wands_right a.buy_now_sweater_group1{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:115px; bottom:77px; width:106px;}
+.popup_wands_right a.buy_now_sweater_group1:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_sweater_group2{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute;right:-245px; bottom:77px; width:127px; width:106px;}
+.popup_wands_right a.buy_now_sweater_group2:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_sweater_group3{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute;right:-63px; bottom:77px; width:106px;}
+.popup_wands_right a.buy_now_sweater_group3:hover{ background-position:0 -30px;}
+
+
+.house_throws_group_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.house_throws_group_popup span.house_throws_group_popup_mn{float:left; background:url(../images/popup/house_of_hogwarts/popups/hogwarts_house_throws_bg.png) no-repeat left top; width:596px; height:373px; margin:30px 0 0 10px; }
+.house_throws_group_popup .jqzoom_images img{ float:left; margin-left:40px; margin-top:60px} /* small image thumbnail */
+.house_throws_group_popup a.house_throws_group_price_tag{float:left; position:absolute;  bottom:135px; left:595px; width:90px; height:46px; background:url(../images/popup/house_of_hogwarts/popups/hogwarts_house_throws_tag.png) no-repeat left top;}
+.house_throws_group_popup a.house_throws_group_price_tag:hover{background-position:0 -48px;}
+
+.popup_wands_right a.buy_now_house_throws_group1{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute;  right:162px; bottom:90px; width:106px;}
+.popup_wands_right a.buy_now_house_throws_group1:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_house_throws_group2{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:20px; bottom:90px; width:106px;}
+.popup_wands_right a.buy_now_house_throws_group2:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_house_throws_group3{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:-125px; bottom:90px; width:106px;}
+.popup_wands_right a.buy_now_house_throws_group3:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_house_throws_group4{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:-265px; bottom:90px; width:106px;}
+.popup_wands_right a.buy_now_house_throws_group4:hover{ background-position:0 -30px;}
+
+
+.bookmarks_main_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.bookmarks_main_popup span.bookmarks_main_popup_mn{float:left; background:url(../images/popup/house_of_hogwarts/popups/hogwarts_house_bookmark_bg.png) no-repeat left top; width:593px; height:341px; margin:30px 0 0 10px; }
+.bookmarks_main_popup .jqzoom_images img{ float:left; margin-left:60px; margin-top:70px} /* small image thumbnail */
+.bookmarks_main_popup a.bookmarks_main_price_tag{float:left; position:absolute;  bottom:5px; left:238px; width:90px; height:46px; background:url(../images/popup/house_of_hogwarts/popups/hogwarts_house_bookmark_tag.png) no-repeat left top;}
+.bookmarks_main_popup a.bookmarks_main_price_tag:hover{background-position:0 -47px;}
+.popup_wands_right a.buy_now_bookmarks_main{float:left; position:absolute; right:-200px; bottom:110px; width:127px;}
+
+.scarves_graphic_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.scarves_graphic_popup span.scarves_graphic_popup_mn{float:left; background:url(../images/popup/house_of_hogwarts/popups/hogwart_house_scarves_bg.png) no-repeat left top; width:655px; height:355px; margin:30px 0 0 10px; }
+.scarves_graphic_popup .jqzoom_images img{ float:left; margin-left:23px; margin-top:14px} /* small image thumbnail */
+.scarves_graphic_popup a.scarves_graphic_price_tag{float:left; position:absolute;  bottom:310px; left:317px; width:90px; height:46px; background:url(../images/popup/house_of_hogwarts/popups/hogwart_house_scarves_tag.png) no-repeat left top;}
+.scarves_graphic_popup a.scarves_graphic_price_tag:hover{background-position:0 -47px;}
+
+.popup_wands_right a.buy_now_scarves_graphic1{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute;right:165px; bottom:40px; width:106px;}
+.popup_wands_right a.buy_now_scarves_graphic1:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_scarves_graphic2{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:7px; bottom:40px; width:106px;}
+.popup_wands_right a.buy_now_scarves_graphic2:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_scarves_graphic3{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:-145px; bottom:40px; width:106px;}
+.popup_wands_right a.buy_now_scarves_graphic3:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_scarves_graphic4{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:-305px; bottom:40px; width:106px;}
+.popup_wands_right a.buy_now_scarves_graphic4:hover{ background-position:0 -30px;}
+
+
+.iphone_cases_all_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.iphone_cases_all_popup span.iphone_cases_all_popup_mn{float:left; background:url(../images/popup/house_of_hogwarts/popups/hogwarts_iphone_cases_bg.png) no-repeat left top; width:630px; height:381px; margin:30px 0 0 10px; }
+.iphone_cases_all_popup .jqzoom_images img{ float:left; margin-left:70px; margin-top:57px} /* small image thumbnail */
+.iphone_cases_all_popup a.iphone_cases_all_price_tag{float:left; position:absolute;  bottom:318px; left:305px; width:90px; height:46px; background:url(../images/popup/house_of_hogwarts/popups/hogwarts_iphone_cases_tag.png) no-repeat left top;}
+.iphone_cases_all_popup a.iphone_cases_all_price_tag:hover{background-position:0 -48px;}
+
+.popup_wands_right a.buy_now_iphone_cases_all1{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute;right:165px; bottom:82px; width:106px;}
+.popup_wands_right a.buy_now_iphone_cases_all1:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_iphone_cases_all2{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:7px; bottom:82px; width:106px;}
+.popup_wands_right a.buy_now_iphone_cases_all2:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_iphone_cases_all3{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:-145px; bottom:82px; width:106px;}
+.popup_wands_right a.buy_now_iphone_cases_all3:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_iphone_cases_all4{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:-305px; bottom:82px; width:106px;}
+.popup_wands_right a.buy_now_iphone_cases_all4:hover{ background-position:0 -30px;}
+
+.beanies_all_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.beanies_all_popup span.beanies_all_popup_mn{float:left; background:url(../images/popup/house_of_hogwarts/popups/house_beanies_bg.png) no-repeat left top; width:630px; height:381px; margin:30px 0 0 10px; }
+.beanies_all_popup .jqzoom_images img{ float:left; margin-left:28px; margin-top:70px} /* small image thumbnail */
+.beanies_all_popup a.beanies_all_price_tag{float:left; position:absolute;  bottom:318px; left:305px; width:90px; height:46px; background:url(../images/popup/house_of_hogwarts/popups/house_beanies_tag.png) no-repeat left top;}
+.beanies_all_popup a.beanies_all_price_tag:hover{background-position:0 -46px;}
+
+.popup_wands_right a.buy_now_beanies_all1{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute;right:170px; bottom:95px; width:106px;}
+.popup_wands_right a.buy_now_beanies_all1:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_beanies_all2{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute;right:17px; bottom:95px; width:106px;}
+.popup_wands_right a.buy_now_beanies_all2:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_beanies_all3{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute;right:-138px; bottom:95px; width:106px;}
+.popup_wands_right a.buy_now_beanies_all3:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_beanies_all4{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:-288px; bottom:95px; width:106px;}
+.popup_wands_right a.buy_now_beanies_all4:hover{ background-position:0 -30px;}
+
+
+.robes_all_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.robes_all_popup span.robes_all_popup_mn{float:left; background:url(../images/popup/house_of_hogwarts/popups/hogwarts_house_robes_bg.png) no-repeat left top; width:651px; height:377px; margin:30px 0 0 10px; }
+.robes_all_popup .jqzoom_images img{ float:left; margin-left:135px; margin-top:60px} /* small image thumbnail */
+.robes_all_popup a.robes_all_price_tag{float:left; position:absolute;  bottom:305px; left:540px; width:90px; height:46px; background:url(../images/popup/house_of_hogwarts/popups/hogwarts_house_robes_tag.png) no-repeat left top;}
+.robes_all_popup a.robes_all_price_tag:hover{background-position:0 -47px;}
+
+.popup_wands_right a.buy_now_robes_all1{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:63px; bottom:80px; width:106px;}
+.popup_wands_right a.buy_now_robes_all1:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_robes_all2{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:-73px; bottom:80px; width:106px;}
+.popup_wands_right a.buy_now_robes_all2:hover{ background-position:0 -30px;}
+
+.popup_wands_right a.buy_now_robes_all3{float:left; background:url(../images/popup/bg/small_buy_button.png) no-repeat left top; height:28px; position:absolute; right:-210px; bottom:80px; width:106px;}
+.popup_wands_right a.buy_now_robes_all3:hover{ background-position:0 -30px;}
+
+
+.ties_popup{float:left; width:655px; padding:10px 0 0 20px; position:relative;}
+.ties_popup span.ties_popup_mn{float:left; background:url(../images/popup/house_of_hogwarts/popups/hogwart_house_ties_bg.png) no-repeat left top; width:630px; height:340px; margin:30px 0 0 10px; }
+.ties_popup .jqzoom_images img{ float:left; margin-left:50px; margin-top:75px} /* small image thumbnail */
+.ties_popup a.ties_price_tag{float:left; position:absolute;  bottom:5px; left:245px; width:90px; height:46px; background:url(../images/popup/house_of_hogwarts/popups/hogwart_house_ties_tag.png) no-repeat left top;}
+.ties_popup a.ties_price_tag:hover{background-position:0 -46px;}
+.popup_wands_right a.buy_now_ties{float:left; position:absolute; right:-200px; bottom:70px; width:127px;}
